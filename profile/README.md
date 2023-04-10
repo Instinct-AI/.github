@@ -17,6 +17,8 @@ We offer a range of packages to help users with different AI-related tasks. Here
 - YOLOvision  🚀 🚀: The YOLOvision object detection models can detect and locate objects in real-time images and video streams. These models can be trained to detect specific types of objects, such as cars, people, animals, or any other object of interest.
 
 
+- EasyDeL 📦: (Easy Deep Learning) is an open-source library designed to accelerate and optimize the training process of machine learning models. This library is primarily focused on PyTorch, and the team behind EasyDeL is planning to add support for JAX/Flax and TensorFlow in the future. 
+
 ## Getting started 😊
 To get started with LucidBrains, simply visit our website and sign up for an account. From there, you'll have access to all of our packages and tools, as well as a range of resources and support to help you get the most out of our platform.
 Support
